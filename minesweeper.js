@@ -26,7 +26,7 @@ function createBoard(size) {
       }) // push object
     } // for j
   } // for i
-} // drawBoard
+} // createBoard
 
 function startGame () {
   createBoard(6)
